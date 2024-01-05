@@ -7,3 +7,4 @@ int LinearSearch(int data[], int size, int key){
     }
     return -1;
 }
+
